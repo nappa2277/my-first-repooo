@@ -16,3 +16,7 @@ git remote add origin https://github.com/Moe/Faculatyissues.git
 # Push to GitHub
 git branch -M main
 git push -u origin main
+
+git branch -M main
+git push -u origin main
+
